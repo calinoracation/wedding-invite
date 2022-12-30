@@ -1,7 +1,7 @@
 {
-  "name": "11ty-lit",
+  "name": "wedding-invite",
   "version": "1.0.0",
-  "description": "An example 11ty repo using Lit",
+  "description": "A Voyage to Forever",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve",
@@ -114,7 +114,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e111077/11ty-lit.git"
+    "url": "git+https://github.com/calinoracation/wedding-invite.git"
   },
   "keywords": [
     "11ty",
@@ -126,9 +126,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/e111077/11ty-lit/issues"
+    "url": "https://github.com/calinoracation/wedding-invite/issues"
   },
-  "homepage": "https://github.com/e111077/11ty-lit#readme",
+  "homepage": "https://github.com/calinoracation/wedding-invite#readme",
   "dependencies": {
     "@11ty/is-land": "^3.0.0",
     "@material/mwc-button": "^0.27.0",
